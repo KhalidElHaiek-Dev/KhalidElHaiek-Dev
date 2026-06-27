@@ -21,7 +21,8 @@ My current focus is building database-driven business applications, improving my
 * Building real-world C#/.NET and web projects
 * Improving API design and backend architecture
 * Practicing clean code, layered architecture, and database design
-* Preparing my GitHub portfolio for freelance and job opportunities
+* Improving my ability to design, build, and document complete software systems
+
 
 ## Featured Projects
 
